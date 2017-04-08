@@ -288,6 +288,6 @@ if (empty($_SESSION['login_user'])) {
 	$_SESSION['code'] = $dcode;
 
 	header('Location:mail.php');
-
+//=========================================== Fin de programme ==========================================
 }
 ?>
